@@ -1,5 +1,5 @@
-sudo apt-get -y install python3-pip
 sudo apt-get update
+sudo apt-get -y install python3-pip
 sudo pip3 install opencv-python
 sudo pip3 install tensorflow
 sudo pip3 install numpy
